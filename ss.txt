@@ -1,0 +1,30 @@
+﻿intitle:"index.of" intext:"(Win32) DAV/2" intext:"Apache"
+intitle:"index.of" intext:"(Win32) DAV/2" intext:"Apache" site:com
+intitle:"index.of" intext:"(Win32) DAV/2" intext:"Apache" site:edu
+intitle:"index.of" intext:"(Win32) DAV/2" intext:"Apache" site:gov
+intitle:"index.of" intext:"(Win32) DAV/2" intext:"Apache" site:YOURCOUNTRY
+
+inurl:.co.id/*.asp
+inurl:.com.fr/*.asp
+inurl:.com.de/*.asp
+inurl:.co.at/*.asp
+inurl:.com.by/*.asp
+inurl:.com.ph/*.asp
+inurl:.com.kg/*.asp
+inurl:.com.ru/*.asp
+inurl:.com.es/*.asp
+inurl:.com.cn/*.asp
+inurl:.co.it/*.asp
+inurl:.com/*.asp
+inurl:.edu.ru/*.asp
+inurl:.gov.ru/*.asp
+inurl:.net.ru/*.asp
+inurl:.org.ru/*.asp
+inurl:.edu.fr/*.asp
+inurl:.gov.fr/*.asp
+inurl:.net.fr/*.asp
+inurl:.org.fr/*.asp
+inurl:.edu.cn/*.asp
+inurl:.gov.cn/*.asp
+inurl:.net.cn/*.asp
+inurl:.org.cn/*.asp
